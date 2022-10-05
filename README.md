@@ -1,0 +1,2 @@
+# deepaksingh
+input function
